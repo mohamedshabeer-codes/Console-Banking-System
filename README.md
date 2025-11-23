@@ -1,6 +1,3 @@
-# Console-Banking-System
-The Console Banking System is a simple Python-based banking application built using Python that runs in the terminal. The project demonstrates OOP concepts. This allows users to perform simple banking operations, showcasing how real-world banking logic can be implemented using Python.
-
 # Console Banking System
 
 A simple and beginner-friendly Python project that simulates basic banking operations through a console interface. This mini-project demonstrates essential **Object-Oriented Programming (OOP)** concepts such as classes, objects, methods, and encapsulation.
@@ -21,19 +18,7 @@ A simple and beginner-friendly Python project that simulates basic banking opera
 ## 🛠️ Technologies Used
 - **Python 3**
 - Console / Terminal I/O  
-- Object-Oriented Programming  
-
----
-
-## 📸 Screenshots 
-
-```
-![Screenshot 1](https://raw.githubusercontent.com/mohamedshabeer-codes/Console-Banking-System/refs/heads/main/IMG_20251123_18200981.jpeg)
-![Screenshot 2](https://raw.githubusercontent.com/mohamedshabeer-codes/Console-Banking-System/refs/heads/main/IMG_20251123_183320.jpg)
-
-![Screenshot 3](https://raw.githubusercontent.com/mohamedshabeer-codes/Console-Banking-System/refs/heads/main/IMG_20251123_183356.jpg)
-```
-
+- Object-Oriented Programming
 ---
 
 ## 📘 How It Works
@@ -55,5 +40,4 @@ This project helps in understanding:
 ---
 
 ## 📜 License
-This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
-
+This project is open-source under the [MIT License](https://opensource.org/licenses/MIT)
