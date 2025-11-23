@@ -25,13 +25,13 @@ A simple and beginner-friendly Python project that simulates basic banking opera
 
 ---
 
-## 📸 Screenshots  
-(Add your 3 images here)
+## 📸 Screenshots 
 
 ```
-![Screenshot 1](IMG_20251123_18200981.jpeg)
-![Screenshot 2](path/to/your/image2.png)
-![Screenshot 3](path/to/your/image3.png)
+![Screenshot 1](https://raw.githubusercontent.com/mohamedshabeer-codes/Console-Banking-System/refs/heads/main/IMG_20251123_18200981.jpeg)
+![Screenshot 2](https://raw.githubusercontent.com/mohamedshabeer-codes/Console-Banking-System/refs/heads/main/IMG_20251123_183320.jpg)
+
+![Screenshot 3](https://raw.githubusercontent.com/mohamedshabeer-codes/Console-Banking-System/refs/heads/main/IMG_20251123_183356.jpg)
 ```
 
 ---
@@ -53,10 +53,6 @@ This project helps in understanding:
 - Basic validation and account security logic  
 
 ---
-
-## 📜 License
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this project with proper attribution.
 
 ## 📜 License
 This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
