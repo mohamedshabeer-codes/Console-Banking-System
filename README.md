@@ -30,7 +30,7 @@ A simple and beginner-friendly Python project that simulates basic banking opera
 ---
 
 ## 🎯 Learning Outcomes
-This project helps in understanding:
+This project helped me to understand:
 - Class creation and object usage  
 - Method implementation  
 - User input handling  
